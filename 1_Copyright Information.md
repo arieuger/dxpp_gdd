@@ -1,4 +1,2 @@
-# Copyright Information
-Template originally by [Artjom Kurapov](https://kurapov.ee/rus/lab/game_development/#f191)
-
-Markdown version by [TheLazyHatGuy](https://github.com/TheLazyHatGuy)
+# Información sobre os dereitos de autor
+Sobre as personaxes de H. P. Lovecraft, pasaron a ser de dominio público, no Estado español, no 1987.
