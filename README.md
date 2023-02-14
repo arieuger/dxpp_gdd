@@ -2,7 +2,7 @@
 
 Jonatan G. Troyano
 Antía Roig Regueira
-Luis X X
+Luis P.V.
 
 Pequena introducción do xogo.
 
