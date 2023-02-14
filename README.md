@@ -1,8 +1,8 @@
 # GDD X
 
-Jonatan G. Troyano
-Antía Roig Regueira
-Luis X X
+Jonatan G. Troyano,
+Antía Roig Regueira,
+Luis P. V.
 
 Pequena introducción do xogo.
 
