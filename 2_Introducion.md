@@ -1,0 +1,2 @@
+# Introdución
+_Proxect_cacahuete_ é un xogo inspirado nos libros de 'H.P. LOVECRAFT' pricipalmente 'A chamada de Cthulhu', de dificultade media con escenarios pechados. O xogador encarnará o papel do invertigador/a verase envolto nun misterioso caso.
