@@ -9,6 +9,6 @@
 * Camara Isometrica:
    * A carama sera totalmente isometrica para permitir a completa visualizacion dos escenarios a explorar.
 * BSO:
-   * O BSO do xogo estara pensada para causar que o xogador senta tension nos momentos clave e coa disminucion da sua saude mental ira mermando en sons cada vez máis.
+   * O BSO do xogo estara pensada para causar que o xogador senta tension nos momentos clave e coa disminucion da sua saude mental ira mermando en sons cada vez máis turvios.
 * Dificultade:
   *  A dificultade sera media, non sera posible cambiala, como o xogador tera que resolver conversacions e puzzles taran pesados para que sexan dinamicos dependendo das estadisticas que elixa e o seu nivel de saude mental.
