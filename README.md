@@ -4,8 +4,6 @@ Jonatan G. Troyano,
 Antía Roig Regueira,
 Luis P. V.
 
-Pequena introducción do xogo.
-
 # Contido do GDD
 1. [Información sobre os dereitos de autor](1_Copyright%20Information.md)
 2. [Introducción](2_Introducion.md)
