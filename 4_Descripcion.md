@@ -1,0 +1,3 @@
+# _Descripcion_
+
+ProjectCacahuete colocara o xogador en finisterra nunha investigacion rutinaria como leva facendo toda a sua vida, cando no principio da mesma empeza a interactuar con obxetos que parecen doutro mundo os cales van mermando a sua saude mental. O traballo do xogador e seguir na investigacion desentrañando os misterios que ocorren o seu redor sen chegar a perder toda a cordura do investigador/a, Dagon e Hydra haran todo o posible por evitar que o xogador desentrañe os misterios redor do seu culto hacia Cthulhu ou ben facendo que o investigador/a sexa un membro mais do mesmo.
